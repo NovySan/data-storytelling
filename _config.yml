@@ -1,1 +1,6 @@
 theme: jekyll-theme-primer
+markdown: kramdown
+
+# Enable custom styles
+include:
+  - assets/css/custom.css
