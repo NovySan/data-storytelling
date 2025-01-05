@@ -1,4 +1,4 @@
-# Data StoryTelling Workshop and Data Art Jam
+# Data Storytelling Workshop and Data Art Jam
 
 ![Image](assets/banner.png)
 
@@ -48,8 +48,8 @@ Matt Waite is a professor of practice in the College of Journalism and Mass Comm
 
 Robert Twomey is an artist and engineer exploring poetic intersections of human and machine perception, particularly how emerging technologies transform sites of intimate life. He has presented his work at SIGGRAPH (Best Paper Award), CVPR, ISEA, NeurIPS, the Museum of Contemporary Art San Diego, Nokia Bell Labs Experiments in Art and Technology (E.A.T.), and has been supported by the National Science Foundation, the California Arts Council, Microsoft, Amazon, NVIDIA, and HP. Twomey received his BS from Yale with majors in Art and Biomedical Engineering, his MFA in Visual Arts from UC San Diego, and his Ph.D. in Digital Arts and Experimental Media from the University of Washington. He is an Assistant Teaching Professor of Computing in the Arts and an Applied Imagination Faculty with the Arthur C. Clarke Center for Human Imagination at UC San Diego, where he directs the Machine Cohabitation Lab.
 
-For more: [roberttwomey.com](roberttwomey.com) and [cohab-lab.net](cohab-lab.net)
+For more: [roberttwomey.com](roberttwomey.com) | [cohab-lab.net](cohab-lab.net)
 
-![Image](assets/footer.png)
+![Image](assets/loopEmber.gif)
 
 ## [Datasets](datasets.md)
