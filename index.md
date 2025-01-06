@@ -29,6 +29,8 @@ This hands-on event will not only reinforce learning but also cultivate critical
 
 Rahul Bhargava is an educator, designer, and artist working on creative data storytelling and computational journalism in support of goals of social justice and community empowerment. He has run over 100 workshops on data literacy, designed arts-based data murals and theatre, built award-winning museum exhibits, co-created AI-powered civic technologies with CSOs, and delivered keynote talks across the globe. Rahul’s first book, “Community Data: Creative Approaches to Empowering People with Information”, is now available from Oxford University Press.  He leads the Data Culture Group as an Assistant Professor of Journalism and Art + Design at Northeastern University.
 
+For more: [https://dataculture.northeastern.edu](https://dataculture.northeastern.edu)
+
 
 ### Dr. Laura Guertin
 
@@ -57,4 +59,4 @@ For more: [roberttwomey.com](roberttwomey.com) . [cohab-lab.net](cohab-lab.net)
 
 
 
-## [Datasets](datasets.md)
+## [The Datasets](datasets.md)<span style="margin-left: 20px;"></span>[The CreatiViz Team] (team.md)
