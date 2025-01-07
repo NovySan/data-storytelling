@@ -61,4 +61,4 @@ For more: [roberttwomey.com](roberttwomey.com) . [cohab-lab.net](cohab-lab.net)
 
 
 
-###**[The Datasets](datasets.md) // [The UNL CreatiViz Team] (team.md) // [DataPhys Inspiration] (https://dataphys.org/list/gallery/) // [Contact](contact.md)**
+###**[The Datasets](datasets.md) // [The UNL CreatiViz Team](team.md) // [DataPhys Inspiration](https://dataphys.org/list/gallery/) // [Contact](contact.md)**
