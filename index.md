@@ -45,6 +45,8 @@ For more: [https://journeysofdrg.org/](https://journeysofdrg.org/)
 
 Matt Waite is a professor of practice in the College of Journalism and Mass Communications at the University of Nebraska-Lincoln who teaches courses in AI, data analysis and visualization. He regularly speaks on and consults media organizations about the legal, ethical and journalistic complexities of using drones, data and technology. From 2007-2011, he was a programmer/journalist for the St. Petersburg Times where he developed the website PolitiFact, winner of the 2009 Pulitzer Prize for national reporting. Before that, he was an award-winning investigative reporter and co-author of Paving Paradise: Florida's Vanishing Wetlands and the Failure of No Net Loss.
 
+For More: [https://github.com/mattwaite](https://github.com/mattwaite)
+
 
 ### Robert Twomey
 
@@ -59,4 +61,4 @@ For more: [roberttwomey.com](roberttwomey.com) . [cohab-lab.net](cohab-lab.net)
 
 
 
-## [The Datasets](datasets.md)<span style="margin-left: 20px;"></span>[The CreatiViz Team] (team.md)
+###**[The Datasets](datasets.md) // [The UNL CreatiViz Team] (team.md) // [DataPhys Inspiration] (https://dataphys.org/list/gallery/) // [Contact](contact.md)**
