@@ -26,6 +26,7 @@ This hands-on event will not only reinforce learning but also cultivate critical
 ## Speakers
 
 ### Rahul Bhargava
+<img src="assets/rahul.jpg" alt="Description" style="width:300px; height:auto;">
 
 Rahul Bhargava is an educator, designer, and artist working on creative data storytelling and computational journalism in support of goals of social justice and community empowerment. He has run over 100 workshops on data literacy, designed arts-based data murals and theatre, built award-winning museum exhibits, co-created AI-powered civic technologies with CSOs, and delivered keynote talks across the globe. Rahul’s first book, “Community Data: Creative Approaches to Empowering People with Information”, is now available from Oxford University Press.  He leads the Data Culture Group as an Assistant Professor of Journalism and Art + Design at Northeastern University.
 
@@ -33,6 +34,7 @@ For more: [https://dataculture.northeastern.edu](https://dataculture.northeaster
 
 
 ### Dr. Laura Guertin
+<img src="assets/Guertin_NOAAship.jpeg" alt="Description" style="width:300px; height:auto;">
 
 Distinguished Professor Laura Guertin holds a Ph.D. in Marine Geology & Geophysics from the University of Miami's Rosenstiel School of Marine & Atmospheric Science and has served as faculty at Penn State Brandywine (PA) since 2001. She is an Honorary Fellow of the Geological Society of America and the American Association for the Advancement of Science. She has received additional national recognitions, as well as grant funding from the National Science Foundation to enhance teaching and student learning in undergraduate education. With a passion for science outreach, she taps into creative approaches such as quilting to engage audiences in learning about Earth science and its applications.
 
@@ -42,6 +44,7 @@ For more: [https://journeysofdrg.org/](https://journeysofdrg.org/)
 
 
 ### Matt Waite
+<img src="assets/waite_headshot.jpg" alt="Description" style="width:300px; height:auto;">
 
 Matt Waite is a professor of practice in the College of Journalism and Mass Communications at the University of Nebraska-Lincoln who teaches courses in AI, data analysis and visualization. He regularly speaks on and consults media organizations about the legal, ethical and journalistic complexities of using drones, data and technology. From 2007-2011, he was a programmer/journalist for the St. Petersburg Times where he developed the website PolitiFact, winner of the 2009 Pulitzer Prize for national reporting. Before that, he was an award-winning investigative reporter and co-author of Paving Paradise: Florida's Vanishing Wetlands and the Failure of No Net Loss.
 
@@ -49,6 +52,7 @@ For More: [https://github.com/mattwaite](https://github.com/mattwaite)
 
 
 ### Robert Twomey
+<img src="assets/rtwomey-headshot-2022-crop.jpg" alt="Description" style="width:300px; height:auto;">
 
 Robert Twomey is an artist and engineer exploring poetic intersections of human and machine perception, particularly how emerging technologies transform sites of intimate life. He has presented his work at SIGGRAPH (Best Paper Award), CVPR, ISEA, NeurIPS, the Museum of Contemporary Art San Diego, Nokia Bell Labs Experiments in Art and Technology (E.A.T.), and has been supported by the National Science Foundation, the California Arts Council, Microsoft, Amazon, NVIDIA, and HP. Twomey received his BS from Yale with majors in Art and Biomedical Engineering, his MFA in Visual Arts from UC San Diego, and his Ph.D. in Digital Arts and Experimental Media from the University of Washington. He is an Assistant Teaching Professor of Computing in the Arts and an Applied Imagination Faculty with the Arthur C. Clarke Center for Human Imagination at UC San Diego, where he directs the Machine Cohabitation Lab.
 

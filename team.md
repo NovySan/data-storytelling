@@ -34,4 +34,7 @@ Professor Dan Novy, PhD, also known as NovySan, is an artist and engineer whose 
 Susan Vanderplas is a statistician and data scientist who studies the perception of data visualization. She also works on reproducibility and data science, and develops statistical algorithms for matching and comparing forensic pattern evidence.
 
 
+### **[The Datasets](datasets.md) // [Home](index.md) // [DataPhys Inspiration](https://dataphys.org/list/gallery/) // [Contact](contact.md)**
+
+
 
