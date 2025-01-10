@@ -6,9 +6,9 @@
 Chad Brassil is an Associate Professor in the School of Biological Sciences and the Faculty Director of Undergraduate Analytics for the Office of the Executive Vice Chancellor. His research spans ecological questions on the consequences of prairie plant diversity and education questions on how to visualize demographic differences in classroom student performance. 
 
 ### Jessica Corman
-<img src="assets/corman-headshot_orig.jpg" alt="Description" style="width:300px; height:auto;">
+<img src="assets/corman.jpg" alt="Description" style="width:300px; height:auto;">
 
-I study nature through the lens of chemistry. Elements make up all living and non-living material and how elements move through ecosystems can have profound implications for ecosystem structure and function. In my research, I combine techniques from biogeochemistry and ecosystem ecology to understand processes that influence elemental flows into and through ecosystems particular vulnerable to nutrient pollution: lakes and streams.
+Jessica Corman is a limnologist and ecosystem ecologist studying how carbon, nitrogen, and phosphorus cycle through lakes, rivers, and streams. She is also interested in how arts and humanities can inform and interact with scientific research.
 
 ### Clay Cressler
 <img src="assets/cressler_photo.jpg" alt="Description" style="width:300px; height:auto;">
